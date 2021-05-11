@@ -46,3 +46,10 @@ Test size( 2 ):  79
 Train size( 5 ):  1416
 Validation size( 5 ):  265
 Test size( 5 ):  88
+
+
+# Design the model to Extension.
+
+By incorporating other plants disease dataset change the tomato disease detection model into a plant disease classifier model.
+Then implement a mobile application format model using tensorflow lite and develop a mobile application for plant disease detection model. 
+Additionally by adding uploading features to the app on mobile application will help in increasing the models accuracy by being a good data collection tool.
